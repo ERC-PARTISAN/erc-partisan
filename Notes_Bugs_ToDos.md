@@ -92,7 +92,13 @@
    bundle exec jekyll serve
    ```
 
-   
+4. To build the theme.
+
+   ```
+   bundle exec jekyll build
+   ```
+
+   ## 
 
 
 
