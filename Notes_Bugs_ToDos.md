@@ -98,7 +98,12 @@
    bundle exec jekyll build
    ```
 
-   ## 
 
 
+
+**UPDATING THE WEBSITE**
+
+- **Team**
+  - *team* foler
+  - *index* for the team website and *names* folder for individual team member websites
 

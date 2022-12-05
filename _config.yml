@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: 'erc-partisan.github.io'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'PARTISAN'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
