@@ -106,6 +106,8 @@
 - **Landing Page**
 
   - Do not make updates in the *_site* folder since it is generated based on the .md files!
+  - *_include* → *_layouts* → *home.html*
+  - *_data* → *features.json* 
 
 - **CSS files**
 
@@ -146,3 +148,14 @@
 
   - *_data* → *social.json* and *seo.yml*
 
+- **Cards on landing page**
+
+  - *_data* → *features.json*
+
+- **Image on landing page (top)**
+
+  - *_sass* → *components* → *intro-image.scss*
+
+- **Logo in header**
+
+  - 

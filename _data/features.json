@@ -1,16 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "<a href='/about/'>About</a>",
+    "description": "Detailed information on the PARTISAN ERC-project.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,10 +9,28 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "<a href='/team/'>Team</a>",
+    "description": "Find out who the researchers are that work on the project.",
+    "image": {
+      "url": "images/features/collaborate_smaller.svg",
+      "width": 50,
+      "height": 50
+    }
+  },
+  {
+    "title": "<a href='/publications/'>Publications</a>",
+    "description": "Stay up-to-date with the latest publications from PARTISAN.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "<a href='/contact/'>Contact</a>",
+    "description": "Feel free to contact us via Mail or Twitter and visit our GitHub repository.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }
