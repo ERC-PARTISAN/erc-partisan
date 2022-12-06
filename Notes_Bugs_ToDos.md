@@ -92,7 +92,7 @@
    bundle exec jekyll serve
    ```
 
-4. To build the theme.
+4. To build the theme (not necessary!)
 
    ```
    bundle exec jekyll build
@@ -101,9 +101,48 @@
 
 
 
-**UPDATING THE WEBSITE**
+#### UPDATING THE WEBSITE
+
+- **Landing Page**
+
+  - Do not make updates in the *_site* folder since it is generated based on the .md files!
+
+- **CSS files**
+
+  - folder: *_sass* → *components*
+
+- **Contact Box**
+
+  - define contact box in folder *_includes* → *call_html*
+
+- **Creating a new subpage**
+
+  1. create a new md file in main folder (can be access directly through permalink page_url/page_name)
+  2. add new page to navigation bar in the header
+     - *data* → *menus.yml* add there the name, url and weight (order of sites in nav-bar)
+
+- **Remove subpages**
+
+  1. Add to the front matter of the respective subpage .md file in the main folder. This will make the website offline but it is still in the nav-bar.
+
+     ```
+     ---
+     published: false
+     ---
+     ```
+
+  2. Remove the subpage title from the navbar: *_data* → *menus.yml* → remove *name* and *weight* (e.g., name: ).
 
 - **Team**
-  - *team* foler
-  - *index* for the team website and *names* folder for individual team member websites
+
+  - *team* folder
+  - all information is in the respective team member .md files
+
+- **Change mailadress**
+
+  - *_data* → *contact.yml*
+
+- **GitHub and Twitter**
+
+  - *_data* → *social.json* and *seo.yml*
 
