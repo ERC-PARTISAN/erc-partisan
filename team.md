@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team consists of the pinciple investigator Markus Wagner, two post-doctoral and two pre-doctoral researchers. 
+Our team consists of the pincipal investigator Markus Wagner, two post-doctoral and two pre-doctoral researchers. 
