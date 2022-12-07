@@ -2,8 +2,9 @@
 title: "Prof. Markus Wagner, PhD"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Principle Investigator"
-linkedinurl: "https://www.linkedin.com/"
+jobtitle: "Principal Investigator"
+#linkedinurl: "https://www.linkedin.com/"
+personalwebpage: "https://www.wagnermarkus.net/"
 promoted: true
 weight: 1
 ---

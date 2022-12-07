@@ -30,10 +30,17 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <h2 class="team-name">{{ team.title }}</h2>
+                    <!-- Old code that makes name to a hyperlink to further subpage for each team member
+                        <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2> 
+                    -->
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.linkedinurl %}
                     <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
+                    {% endif %}
+                    <!-- Added by me: Personal Webpage Link -->
+                    {% if team.personalwebpage %}
+                    <a target="_blank" href="{{ team.personalwebpage }}" rel="noreferrer">Personal Webpage</a>
                     {% endif %}
                 </div>
                 <div class="team-content">{{ team.content | truncate: 120 }}</div>

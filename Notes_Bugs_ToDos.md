@@ -116,6 +116,7 @@
 - **Contact Box**
 
   - define contact box in folder *_includes* → *call_html*
+  - *css* for social media icons in contact box: 
 
 - **Creating a new subpage**
 
@@ -139,6 +140,9 @@
 
   - *team* folder
   - all information is in the respective team member .md files
+  - front matter *promoted: false* then the name does not appear on a card but in a smaller icon below
+  - Name as a link to personal website: → *_data* → *_layouts* → *teams.html*
+    - personal webpage link in respective team member .md file
 
 - **Change mailadress**
 
@@ -147,6 +151,7 @@
 - **GitHub and Twitter**
 
   - *_data* → *social.json* and *seo.yml*
+  - Icons: *images* → *features* → *social*
 
 - **Cards on landing page**
 
@@ -157,5 +162,3 @@
   - *_sass* → *components* → *intro-image.scss*
 
 - **Logo in header**
-
-  - 

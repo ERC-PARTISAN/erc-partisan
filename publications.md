@@ -3,30 +3,7 @@ title: Publications
 layout: page
 description: Publication page
 bodyClass: page-about
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
-
-# Journal Publications
-
-Publication 1
-
-Publication 2
-
-.
-
-.
-
-.
-
-
-# Working Papers
-
-Working Paper 1
-
-Working Paper 2
-
-.
-
-.
-
-.

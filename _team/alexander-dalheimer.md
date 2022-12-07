@@ -1,8 +1,10 @@
 ---
 title: "Alexander Dalheimer"
 date: 2018-12-20T13:45:06+10:00
-image: "images/team/cristian-newman-94319-unsplash.jpg"
+image: "images/team/image_Alexander.jpeg"
 jobtitle: "Pre-Doctoral Researcher"
+personalwebpage: "https://adalheimer.github.io/"
+promoted: true
 weight: 5
 ---
 
