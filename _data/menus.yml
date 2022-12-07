@@ -5,18 +5,18 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 2
+  - name: "News"
+    url: "/news/"
+    weight: 3
   - name: "Publications"
     url: "/publications/"
-    weight: 3
+    weight: 4
   - name: "Work in Progress"
     url: "/work-in-progress/"
-    weigth: 4
+    weight: 5
   - name: "Contact"
     url: "/contact/"
     weight: 6
-  - name: "News"
-    url: "/news/"
-    weight: 5
   
   
 
