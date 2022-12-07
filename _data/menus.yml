@@ -13,6 +13,9 @@ main:
     weigth: 4
   - name: "Contact"
     url: "/contact/"
+    weight: 6
+  - name: "News"
+    url: "/news/"
     weight: 5
   
   
