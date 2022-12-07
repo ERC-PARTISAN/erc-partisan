@@ -10,6 +10,15 @@
       </a>
     </div>
     {% endif %}
+
+    <!-- Added by me: Implementation of social icons in the contact box -->
+    {% if site.data.social_contactbox %}
+    <div class="socialcontactbox">
+      {% include social_contactbox.html %}
+    </div>
+    {% endif %}
+    <!-- End of my code-->
+
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">

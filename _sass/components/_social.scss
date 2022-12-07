@@ -12,3 +12,19 @@
     }
   }
 }
+
+
+.socialcontactbox {
+  display: block;
+  img {
+    width: 40px;
+    height: auto;
+  }
+  a {
+    padding: 10px;
+    display: inline-block;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
