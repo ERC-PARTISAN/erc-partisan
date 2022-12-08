@@ -162,3 +162,7 @@
   - *_sass* → *components* → *intro-image.scss*
 
 - **Logo in header**
+
+- **Change colors**
+
+  - *assets* → *css* → *style.scss*

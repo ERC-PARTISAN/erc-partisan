@@ -1,7 +1,7 @@
 [
   {
     "title": "<a href='/about/'>About</a>",
-    "description": "Detailed information on the PARTISAN ERC-project.",
+    "description": "Learn more about the research objectives of PARTISAN.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,26 @@
     }
   },
   {
+    "title": "<a href='/news/'>News</a>",
+    "description": "Check out the latest news and announcements.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
     "title": "<a href='/publications/'>Publications</a>",
     "description": "Stay up-to-date with the latest publications from PARTISAN.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "<a href='/work-in-progress/'>Work in Progress</a>",
+    "description": "See the current work in progress of PARTISAN.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
