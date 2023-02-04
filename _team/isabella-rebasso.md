@@ -1,7 +1,7 @@
 ---
 title: "Isabella Rebasso, PhD"
 date: 2018-12-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
+image: "images/team/michael-dam-258165-unsplash.jpg"
 jobtitle: "Post-Doctoral Researcher"
 #linkedinurl: "https://www.linkedin.com/"
 personalwebpage: "https://www.isabellarebasso.com/"

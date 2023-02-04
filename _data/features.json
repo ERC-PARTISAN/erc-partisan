@@ -10,7 +10,7 @@
   },
   {
     "title": "<a href='/team/'>Team</a>",
-    "description": "Find out who the researchers are that work on the project.",
+    "description": "Find out who the researchers of PARTISAN are.",
     "image": {
       "url": "images/features/collaborate_smaller.svg",
       "width": 50,
@@ -21,7 +21,7 @@
     "title": "<a href='/news/'>News</a>",
     "description": "Check out the latest news and announcements.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/megaphone.png",
       "width": 80,
       "height": 80
     }
@@ -30,7 +30,7 @@
     "title": "<a href='/publications/'>Publications</a>",
     "description": "Stay up-to-date with the latest publications from PARTISAN.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/business-report.png",
       "width": 80,
       "height": 80
     }
@@ -39,14 +39,14 @@
     "title": "<a href='/work-in-progress/'>Work in Progress</a>",
     "description": "See the current work in progress of PARTISAN.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/analytics.png",
       "width": 80,
       "height": 80
     }
   },
   {
     "title": "<a href='/contact/'>Contact</a>",
-    "description": "Feel free to contact us via Mail or Twitter and visit our GitHub repository.",
+    "description": "Please feel free to contact us via mail and visit our Twitter and GitHub repository.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
