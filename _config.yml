@@ -3,12 +3,12 @@ permalink: pretty
 title: 'PARTISAN'
 
 logo:
-  mobile: "images/logo/logo_header_mobile.png"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo_header.png"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile: "images/logo/partisan_logo_header.png"
+  mobile_height: "25px"
+  mobile_width: "150px"
+  desktop: "images/logo/partisan_logo_header.png"
+  desktop_height: "25px"
+  desktop_width: "150px"
 
 home: 
   limit_services: 6

@@ -8,4 +8,6 @@ promoted: true
 weight: 5
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+In my dissertation, I investigate the causes of inter-partisan conflict and affective polarization. I explore original explanations using observational and experimental data, as well as quasi-experimental and computational methods.
+
+partisan conflict \| affective polarization \| political behavior \| comparative poltics \| quantitative and computational methods

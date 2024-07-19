@@ -10,20 +10,11 @@
   },
   {
     "title": "<a href='/team/'>Team</a>",
-    "description": "Find out who the researchers of PARTISAN are.",
+    "description": "Find out more about the team behind the PARTISAN project.",
     "image": {
       "url": "images/features/collaborate_smaller.svg",
       "width": 50,
       "height": 50
-    }
-  },
-  {
-    "title": "<a href='/news/'>News</a>",
-    "description": "Check out the latest news and announcements.",
-    "image": {
-      "url": "images/features/megaphone.png",
-      "width": 80,
-      "height": 80
     }
   },
   {
@@ -40,6 +31,15 @@
     "description": "See the current work in progress of PARTISAN.",
     "image": {
       "url": "images/features/analytics.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "<a href='/data/'>Data</a>",
+    "description": "Explore our cross-sectional survey and various survey experiments.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }

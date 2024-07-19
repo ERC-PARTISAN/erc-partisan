@@ -1,28 +1,29 @@
-<div class="call">
-  <div class="call-box-top">
-    {% if site.data.contact.phone %}
-       <!--- <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div> -->
-    {% endif %}
-    {% if site.data.contact.email %}
-    <div class="call-email"><strong>Email: </strong>
-      <a href="mailto:{{ .site.data.contact.email }}">
-        {{ site.data.contact.email }}
-      </a>
-    </div>
-    {% endif %}
+<div class="call-container">
+  <div class="call">
+    <div class="call-box-top">
+      {% if site.data.contact.phone %}
+        <!--- <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div> -->
+      {% endif %}
+      {% if site.data.contact.email %}
+        <div class="call-email"><strong>Email: </strong>
+          <a href="mailto:{{ site.data.contact.email }}">
+            {{ site.data.contact.email }}
+          </a>
+        </div>
+      {% endif %}
 
-    <!-- Added by me: Implementation of social icons in the contact box -->
-    {% if site.data.social_contactbox %}
-    <div class="socialcontactbox">
-      {% include social_contactbox.html %}
+      <!-- Added by me: Implementation of social icons in the contact box -->
+      {% if site.data.social_contactbox %}
+        <div class="socialcontactbox">
+          {% include social_contactbox.html %}
+        </div>
+      {% endif %}
+      <!-- End of my code-->
     </div>
-    {% endif %}
-    <!-- End of my code-->
-
-  </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
         <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
       </div>
     {% endif %}
+  </div>
 </div>

@@ -71,6 +71,8 @@
    - in the header sections meta data can be included
    - then just use markdown
 
+---
+
 
 
 ## NEW Protocol
@@ -98,6 +100,16 @@
    bundle exec jekyll build
    ```
 
+5. Stop running jekyll locally: Press
+
+   ```
+   ctrl + c
+   ```
+
+   
+
+---
+
 
 
 
@@ -107,6 +119,8 @@
 
   - Do not make updates in the *_site* folder since it is generated based on the .md files!
   - *_include* → *_layouts* → *home.html*
+    - includes also css code for spacing etc
+    - There is a backup file before all the changes have been made
   - *_data* → *features.json* 
 
 - **CSS files**
@@ -166,3 +180,66 @@
 - **Change colors**
 
   - *assets* → *css* → *style.scss*
+
+- **Favicon in browser tab**
+
+  - _layouts → default_html 
+
+
+
+---
+
+## To Dos
+
+- [ ] Create and adjust the little icon in the browser tab
+- [x] *Landing* page
+  - [x] Remove the *news* page card
+  - [x] Add ERC and EU Logo
+  - [x] Update PARTISAN logo
+- [ ] *About* subpage
+  - [ ] Rewrite text
+- [ ] *Team* subpage
+  - [x] Ask team to provide photos and short personal descriptions 
+  - [ ] Add photos of the team
+  - [ ] Add short descriptions of each team member
+  - [ ] Add my own description
+  - [x] Remove space between cards and header
+- [x] *News* subpage
+  - [x] Delete
+- [x] *Publication* subpage
+  - [x] Should contain abstract +. link to OSF PAP/Paper
+- [x] *Work-in-Progress* subpage
+  - [x] Should contain abstract +. link to OSF PAP/Paper
+  - [x] Update button
+  - [x] Update links
+- [x] *Data* subpage
+  - [x] Create
+  - [x] Cross-sectional survey (Codebook)
+  - [x] Survey experiments
+- [ ] *Contact* subpage
+  - [ ] Add twitter handle
+  - [x] Check how it looks when ERC logo is replaced by ERC/EU logo
+  - [x] Update PARTISAN logo
+- [ ] Add twitter handle
+- [x] Update image upper left part of website to be the PARTISAN logo (check how it looks)
+
+
+
+---
+
+## Open questions to the team
+
+- [ ] Do you like the font?
+  - [ ] Same font in logo as on the website?
+- [ ] Do you like the logo?
+- [ ] Do you like the color theme?
+- [ ] Combine Publications and work-in-progress to one page?
+
+
+
+
+
+
+
+
+

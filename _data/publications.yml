@@ -1,0 +1,8 @@
+- title: "Publication Title 1"
+  abstract: "This is the abstract for publication 1."
+  publication_link: "https://example.com/publication1"
+  pre_registration_link: "https://example.com/preregistration1"
+- title: "Publication Title 2"
+  abstract: "This is the abstract for publication 2."
+  publication_link: 
+  pre_registration_link: "https://example.com/preregistration2"

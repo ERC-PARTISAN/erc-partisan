@@ -3,7 +3,7 @@ layout: default
 bodyClass: "page-home"
 ---
 
-<div class="intro">
+<div class="intro-container">
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
@@ -14,39 +14,25 @@ bodyClass: "page-home"
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %} intro-image-custom" src="{{ page.intro_image | relative_url }}" />
       </div>
       {% endif %}
     </div>
   </div>
 </div>
 
-<!---
-<div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
-      {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
-      </div>
-    </div>
+<div class="additional-content">
+  <!-- Additional content will go here -->
+  <div style="text-align: center;">
+    <table style="margin: 0 auto; text-align: center; vertical-align: middle;">
+      <tr>
+        <td style="vertical-align: middle; text-align: center;"><img src="/images/logo/erc_flag.jpeg" alt="ERC logo" style="height: 130px; width: auto;"></td>
+        <td style="width: 20px;">&nbsp;&nbsp;&nbsp;</td>
+        <td style="vertical-align: middle; text-align: center;"><img src="/images/logo/uni_vienna_logo.jpeg" alt="Uni Vienna logo" style="height: 90px; width: auto;"></td>
+      </tr>
+    </table>
   </div>
 </div>
--->
 
 {% if site.data.features %}
 <div class="strip strip-grey">
@@ -69,3 +55,55 @@ bodyClass: "page-home"
   </div>
 </div>
 {% endif %}
+
+<style>
+  .intro-container {
+    position: relative;
+    text-align: center;
+    padding-top: 100px; /* Space above the intro section */
+    padding-bottom: 80px; /* Space below the intro section */
+    margin-bottom: 40px; /* Space below the intro section */
+  }
+  @media (min-width: 768px) {
+    .intro-container {
+      padding-top: 140px; /* Increase space above the intro section on larger screens */
+      padding-bottom: 20px; /* Increase space below the intro section on larger screens */
+    }
+  }
+  .intro-image {
+    max-width: 100%; /* Ensure image does not exceed container width */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto 20px; /* Center the image horizontally and add space below */
+  }
+  .intro-image-custom {
+    max-height: 272px; /* Adjust the maximum height as needed */
+    width: auto;
+  }
+  .additional-content {
+    text-align: center;
+    margin-top: 1px; /* Space above additional content */
+    margin-bottom: 60px; /* Space below additional content */
+  }
+  table {
+    margin: 0 auto; /* Center the table horizontally */
+  }
+  table img {
+    margin: 0 10px; /* Adjust the space between images */
+  }
+  h1 {
+    font-size: 42px; /* Ensure consistent font size for h1 */
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  @media (min-width: 768px) {
+    h1 {
+      font-size: 48px; /* Font size for medium screens and up */
+    }
+  }
+  @media (min-width: 992px) {
+    h1 {
+      font-size: 50px; /* Font size for large screens and up */
+    }
+  }
+</style>

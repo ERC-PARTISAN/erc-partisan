@@ -1,0 +1,8 @@
+- title: "WiP Title 1"
+  abstract: "This is the abstract for WiP 1."
+  publication_link: 
+  pre_registration_link: "https://example.com/preregistration1"
+- title: "WiP Title 2"
+  abstract: "This is the abstract for WiP 2."
+  publication_link: "https://example.com/publication2"
+  pre_registration_link: 
