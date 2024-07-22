@@ -122,6 +122,8 @@
     - includes also css code for spacing etc
     - There is a backup file before all the changes have been made
   - *_data* → *features.json* 
+  - **Logo on mobile devices**
+    - in *config:yml* the size of the logo can be specified separately for mobile and desktop devices (atm sizes are the same!)
 
 - **CSS files**
 
@@ -156,7 +158,8 @@
   - all information is in the respective team member .md files
   - front matter *promoted: false* then the name does not appear on a card but in a smaller icon below
   - Name as a link to personal website: → *_data* → *_layouts* → *teams.html*
-    - personal webpage link in respective team member .md file
+    - personal webpage link in the respective team member .md file
+  - Length of team member descriptions can be changed here: *_layouts → teams.html* in line `<div class="team-content">{{ team.content | truncate: 500 }}</div>`
 
 - **Change mailadress**
 
@@ -222,6 +225,10 @@
   - [x] Update PARTISAN logo
 - [ ] Add twitter handle
 - [x] Update image upper left part of website to be the PARTISAN logo (check how it looks)
+- [ ] SEO
+  - [ ] change in *_data →seo.yml* the twitter information
+  - [ ] change in *_data →social.json* the twitter information
+
 
 
 

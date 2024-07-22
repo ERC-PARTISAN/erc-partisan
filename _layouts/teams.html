@@ -36,10 +36,10 @@ bodyClass: "page-teams"
                     <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
                     {% endif %}
                     {% if team.personalwebpage %}
-                    <a target="_blank" href="{{ team.personalwebpage }}" rel="noreferrer">Personal Webpage</a>
+                    <a target="_blank" href="{{ team.personalwebpage }}" rel="noreferrer">Website</a>
                     {% endif %}
                 </div>
-                <div class="team-content">{{ team.content | truncate: 400 }}</div>
+                <div class="team-content">{{ team.content | truncate: 800 }}</div>
             </div>
         </div>
         {% endfor %}
