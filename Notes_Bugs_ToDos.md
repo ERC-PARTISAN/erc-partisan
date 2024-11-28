@@ -239,6 +239,7 @@
 - [ ] SEO
   - [ ] change in *_data →seo.yml* the twitter information
   - [ ] change in *_data →social.json* the twitter information
+  - [ ] change in *_data →social_contactbox.json* the twitter information
 
 
 
