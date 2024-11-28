@@ -45,6 +45,15 @@
     }
   },
   {
+    "title": "<a href='/conferences/'>Conferences</a>",
+    "description": "Discover where the PARTISAN team is showcasing its latest research findings.",
+    "image": {
+      "url": "images/features/speaker.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
     "title": "<a href='/contact/'>Contact</a>",
     "description": "Contact us via email or X, and check out our GitHub repository.",
     "image": {

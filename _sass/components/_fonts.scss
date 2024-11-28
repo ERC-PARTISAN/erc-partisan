@@ -1,7 +1,13 @@
 @font-face {
-	font-family: 'Playfair Display';
-	font-style: normal;
-	font-weight: 400;
-	font-display: swap;
-	src: local(''), url('../fonts/playfair-display.woff2') format('woff2');
+  font-family: 'Bahnschrift SemiBold';
+  font-style: normal;
+  font-weight: 600; /* SemiBold weight */
+  font-display: swap;
+  src: url('../fonts/BAHNSCHRIFT.TTF') format('truetype');
+}
+
+/* Apply the Bahnschrift SemiBold font to all headlines */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bahnschrift SemiBold', sans-serif;
+  font-size: 1em; /* Make sure to use the same font size */
 }

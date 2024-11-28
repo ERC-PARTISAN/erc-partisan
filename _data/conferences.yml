@@ -1,0 +1,115 @@
+- year: 2024
+  conferences:
+    
+    - title: "European Political Science Association (EPSA)"
+      papers:
+        - title: "'They Just Don't Get Us': Perceived (Mis)Understanding as a Driver of Affective Polarization and Avoidance Behavior"
+          authors: ["Dalheimer, A.", "Wagner, M.:"]
+        - title: "The Power of Perceived Threat: Examining the Differential Effects of Realistic and Symbolic Threat on Partisan Prejudice"
+          authors: ["Heinz, E.", "Pliskin, R.", "Wagner, M.:"]
+        - title: "From Leader Profiles to Voter Perceptions: Sociodemographic and Policy Cues"
+          authors: ["Rebasso, I.", "Cakir, S.", "Wagner, M.:"]
+        - title: "Multidimensional Party Competition and Out-Partisan Hostility"
+          authors: ["Cakir, S.", "Wagner, M.:"]
+    
+    - title: "European Consortium for Political Research (ECPR)"
+      papers:
+        - title: "'They Just Don't Get Us': Perceived (Mis)Understanding as a Driver of Affective Polarization and Avoidance Behavior"
+          authors: ["Dalheimer A.", "Wagner M.:"]
+        - title: "The Power of Perceived Threat: Examining the Differential Effects of Realistic and Symbolic Threat on Partisan Prejudice"
+          authors: ["Heinz, E.", "Pliskin, R.", "Wagner, M.:"]
+
+    - title: "American Political Science Association (APSA)"
+      papers:
+        - title: "Multidimensional Party Competition and Out-Partisan Hostility"
+          authors: ["Cakir, S.", "Wagner, M.:"]
+        - title: "Do Sexual Minorities Participate More in Politics?"
+          authors: ["Cakir, S.:"]
+    
+    - title: "24 Hours of Political Psychology Conference"
+      papers:
+        - title: "'They Just Don't Get Us': Perceived (Mis)Understanding as a Driver of Affective Polarization and Avoidance Behavior"
+          authors: ["Dalheimer A.", "Wagner M.:"]
+        - title: "The Power of Perceived Threat: Examining the Differential Effects of Realistic and Symbolic Threat on Partisan Prejudice"
+          authors: ["Heinz, E.", "Pliskin, R.", "Wagner, M.:"]
+
+    - title: "Elections, Public Opinion and Parties (EPOP) Annual Conference"
+      papers:
+        - title: "Multidimensional Party Competition and Out-Partisan Hostility"
+          authors: ["Cakir, S.", "Wagner, M.:"]
+
+    - title: "COMPTEXT Conference"
+      papers:
+        - title: "Measuring and predicting the moralisation of political identities in open-ended responses across 7 countries"
+          authors: ["Rebasso, I.", "Wagner, M.", "Dalheimer, A.:"]
+
+    - title: "Toronto-Montreal Political Behavior Workshop"
+      papers:
+        - title: "Multidimensional Party Competition and Out-Partisan Hostility"
+          authors: ["Cakir, S.", "Wagner, M.:"]
+    
+    - title: "Political Communication Working Group, University of Michigan"
+      papers:
+        - title: "Uncovering the mechanisms of (visual) political stereotyping"
+          authors: ["Rebasso, I.", "Wagner, M.:"]
+
+    - title: "Canada Research Chair in Electoral Democracy Seminar Series"
+      papers:
+        - title: "Multidimensional Party Competition and Out-Partisan Hostility"
+          authors: ["Cakir, S.", "Wagner, M.:"]
+
+    - title: "Seminar organized by the Centre for Political Science Research at KU Leuven"
+      papers:
+        - title: "Multidimensional Party Competition and Out-Partisan Hostility"
+          authors: ["Cakir, S.", "Wagner, M.:"]
+    
+    
+    
+
+
+- year: 2023
+  conferences:
+    - title: "European Political Science Association (EPSA)"
+      papers:
+      - title: "Limited Effect of Elite Ideological Polarization on Mass Ideological Polarization"
+        authors: ["Cakir, S.:"]
+
+    - title: "American Political Science Association (APSA)"
+      papers:
+        - title: "Does Elite Ideological Polarization Cause Mass Affective Polarization?"
+          authors: ["Cakir, S.:"]
+
+    - title: "Ghent University"
+      papers:
+        - title: "Political Leadership and Partisan Stereotypes"
+          authors: ["Markus, M.:"]
+    
+    - title: "University of Amsterdam, Workshop:  Affective polarization and democracy"
+      papers:
+        - title: "What's wrong about affective polarization?"
+          authors: ["Markus, M.:"]
+
+    - title: Forum on Democratic Citizenship (Canada)
+      papers:
+        - title: "Do Sexual Minorities Participate More in Politics?"
+          authors: ["Cakir, S.:"]
+    
+    - title: "Dutch Political Psychology Meeting"
+      papers:
+        - title: "Partisan Affect and Democratic Tolerance in the Context of Shifting Norms: The Effect of Elite Signals towards the Radical Right"
+          authors: ["Markus, M.:"]
+
+    - title: "Canada Research Chair in Electoral Democracy Seminar Series"
+      papers:
+        - title: "The Effects of Party Leadership Change on Partisan Stereotypes"
+          authors: ["Cakir, S.:"]
+
+    - title: "Royal Holloway"
+      papers:
+        - title: "Beyond Partisanship: Ideological Identities and Affective Evaluations"
+          authors: ["Markus, M.:"]
+
+    - title: "Koc University"
+      papers:
+        - title: "Beyond Partisanship: Ideological Identities and Affective Evaluations"
+          authors: ["Markus, M.:"]

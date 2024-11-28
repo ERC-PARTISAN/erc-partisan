@@ -160,6 +160,9 @@
   - Name as a link to personal website: → *_data* → *_layouts* → *teams.html*
     - personal webpage link in the respective team member .md file
   - Length of team member descriptions can be changed here: *_layouts → teams.html* in line `<div class="team-content">{{ team.content | truncate: 500 }}</div>`
+  - academic guests
+    - information in data → academic_guests.yml
+    - all cosmetics in layouts → teams.html
 
 - **Change mailadress**
 
@@ -180,6 +183,8 @@
 
 - **Logo in header**
 
+  - 
+
 - **Change colors**
 
   - *assets* → *css* → *style.scss*
@@ -187,6 +192,12 @@
 - **Favicon in browser tab**
 
   - _layouts → default_html 
+
+- **Work in progress**
+
+  - Data can be added/removed through: *data* → *workinprogress.yml*
+  - Cosmetic changes: *workinprogress.md*
+
 
 
 

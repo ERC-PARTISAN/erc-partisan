@@ -1,7 +1,7 @@
 ---
 title: "Prof. Markus Wagner, PhD"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/image_Markus.jpg"
 jobtitle: "Principal Investigator"
 #linkedinurl: "https://www.linkedin.com/"
 personalwebpage: "https://www.wagnermarkus.net/"
@@ -9,6 +9,4 @@ promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Markus Wagner is a Professor in the Department of Government at the University of Vienna. His research has focused on the role of issues, ideologies and identities in party competition and electoral behaviour, using observational and experimental methods. He obtained his PhD in 2009 from the LSE and has been at the University of Vienna since then.

@@ -90,3 +90,93 @@ bodyClass: "page-teams"
     margin-bottom: 10px; /* Adjust space below job title */
   }
 </style>
+
+
+
+
+
+
+<div class="container academic-guests-container">
+  <h1 class="academic-guests-title">Academic Guests</h1>
+  <div class="row">
+      {% for guest in site.data.academic_guests %}
+      <div class="col-12 mb-2">
+          <div class="guest-info">
+              <p><strong>{{ guest.name }}</strong></p>
+              <p>{{ guest.affiliation }}</p>
+              <p>{{ guest.time }}</p>
+          </div>
+      </div>
+      {% endfor %}
+  </div>
+</div>
+
+<style>
+.academic-guests-container {
+  margin-top: 40px; /* Space above the Academic Guests section */
+  margin-bottom: 60px;
+}
+
+.academic-guests-title {
+  font-size: 40px; /* Adjust title font size */
+  margin-bottom: 30px; /* Space below the Academic Guests title */
+}
+
+.guest-info p {
+  margin: 0; /* Remove margin around the name and affiliation */
+  font-size: 16px; /* Adjust font size */
+}
+</style>
+
+
+<style>
+/* Style for the team container */
+.team-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Style for individual team cards */
+.team-summary-large,
+.team-summary {
+  margin-bottom: 20px; /* Spacing between cards */
+  height: 93%; /* Ensures the cards take full height of the column */
+  display: flex;
+  flex-direction: column; /* Allows for vertical alignment */
+  justify-content: space-between; /* Distribute content evenly */
+  background-color: #f9f9f9; /* Optional: background color for visibility */
+  padding: 20px; /* Optional: padding for the card */
+  border: 1px solid #ddd; /* Optional: border for visibility */
+  border-radius: 5px; /* Optional: rounded corners */
+}
+
+/* Ensure team images are centered and consistent in size */
+.team-image img {
+  display: block;
+  margin: 0 auto 10px; /* Center image and add space below */
+  max-width: 100%; /* Ensure image doesn't exceed card width */
+  max-height: 90px; /* Set a max height to ensure consistent image size */
+}
+
+/* Style for the meta information within the cards */
+.team-meta {
+  flex: 1; /* Takes up remaining space */
+  text-align: left; /* Left align the meta content */
+}
+
+/* Optional: style for Academic Guests section */
+.academic-guests-container {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.academic-guests-title {
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+.guest-info p {
+  margin: 0;
+  font-size: 16px;
+}
+</style>

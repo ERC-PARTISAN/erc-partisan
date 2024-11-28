@@ -1,8 +1,65 @@
-- title: "Publication Title 1"
-  abstract: "This is the abstract for publication 1."
-  publication_link: "https://example.com/publication1"
-  pre_registration_link: "https://example.com/preregistration1"
-- title: "Publication Title 2"
-  abstract: "This is the abstract for publication 2."
-  publication_link: 
-  pre_registration_link: "https://example.com/preregistration2"
+- title: "Divided by the jab: affective polarisation based on COVID vaccination status"
+  authors: ["Wagner, M.", "Eberl, J. M."]
+  year: "2024"
+  journal: "Journal of Elections, Public Opinion and Parties"
+  volume:
+  issue:
+  pages:
+  abstract: "Group-based affective polarisation can emerge around new issues that divide citizens. The public response to vaccines against COVID-19 provided a clear example of a new basis for group divides. Despite scientific consensus regarding the dangers of SARS-CoV-2 as well as the safety and effectiveness of available vaccinations, the public response to the COVID-19 pandemic was strongly politicised during the height of the health crisis. Positive social identities and negative out-group stereotyping developed around support or opposition to the vaccines. Panel survey data from Austria shows that vaccination identities are clearly identifiable and are related to extensive trait-based stereotyping of in- and out-group members. Moreover, we show that vaccination identities are linked to political identities and orientations that pre-date the politicisation of COVID-19 vaccines. Indeed, vaccination identities are more strongly related to political orientations than the decision to get vaccinated itself. Importantly, vaccination identities help us understand downstream attitudes, preferences, and behaviours related to the pandemic, even when controlling for other important predictors such as vaccination status and partisanship for anti-vaccine parties. We discuss the implications and generalizability of our findings beyond the context of the pandemic."
+  publication_link: "https://www.tandfonline.com/doi/full/10.1080/17457289.2024.2352449#:~:text=Licensing-,ABSTRACT,new%20basis%20for%20group%20divides."
+  pre_registration_link:
+
+- title: "Affective polarization and coalition signals"
+  authors: ["Wagner, M.", "Praprotnik, K."]
+  year: "2024"
+  journal: "Political Science Research and Methods"
+  volume: "12"
+  issue: "2"
+  pages: "336-353"
+  abstract: "Affective polarization between partisans is potentially troubling for liberal democracy. Hence, recent research has focused on how affective dislike between partisans can be reduced. Using a survey experiment in Austria, we test whether elite signals matter. Respondents exposed to fictional news stories implying that their in-party might form a coalition with an out-party show reduced dislike toward supporters of that out-party. Our experiment also shows that coalition signals can influence out-party affect even if neither of the two parties signaling cooperation are an in-party. We conclude that cooperation between rivals has an important role in reducing affective polarization."
+  publication_link: "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/affective-polarization-and-coalition-signals/5B128D1C86C07E126075E460B893DE4D"
+  pre_registration_link: 
+
+- title: "Affective polarization in Europe"
+  authors: ["Wagner, M."]
+  year: "2024"
+  journal: "European Political Science Review"
+  volume:
+  issue:
+  pages:
+  abstract: "Affective polarization, a concept that originated in the USA, has increasingly been studied in Europe’s multi-party systems. This form of polarization refers to the extent to which party supporters dislike one another – or, more technically, to the difference between the positive feelings towards the supporters of one’s own political party and the negative feelings towards the supporters of other parties. Measuring this gap in Europe’s multi-party systems requires researchers to make various important decisions relating to conceptualization and measurement. Often, our focus could instead lie on assessing partisan hostility or negative party affect, which is easier to measure. While recent research on affective polarization in Europe has already taught USA lot, both about affective polarization and about political conflict in Europe, I nevertheless suggest that research in this field faces four challenges, namely developing better measures, more sophisticated theories, clearer accounts of affective polarization’s importance and successful ways of reducing negative party affect, if this is indeed desirable."
+  publication_link: "https://www.cambridge.org/core/journals/european-political-science-review/article/affective-polarization-in-europe/36BDBF804365FE0B350E610E9E7C714E"
+  pre_registration_link: 
+
+- title: "Affective Polarization Among Radical‐Right Supporters: Dislike Differentiation and Democratic Support"
+  authors: ["Vanagt, J.", "Praprotnik, K.", "Russo, L.", "Wagner, M."]
+  year: "2024"
+  journal: "Politics and Governance"
+  volume: "12"
+  issue:
+  pages:
+  abstract: "Partisan affective polarization describes the extent to which different partisans like or dislike each other. In Europe, affective dislike is strongest towards the radical-right, as mainstream voters tend to hold particularly negative affect towards radical-right supporters. This is an important pattern given the recent high levels of support for radical-right parties, for example in the Netherlands, France, and Italy. However, the perspective of radical-right supporters themselves has been largely neglected in existing work. To remedy this, we examine how radical-right supporters feel towards supporters of mainstream parties. We develop a new concept, dislike differentiation, which refers to the extent to which radical-right supporters differentiate in the dislike they harbor towards mainstream parties. We use two new studies that sampled 2,628 radical-right supporters in nine European polities. We find that some supporters reject all mainstream parties, whereas others follow more typical patterns of political competition along ideological lines. Dislike differentiation among radical-right supporters is linked to key socio-political phenomena, including party attachment, ideological extremism, satisfaction with democracy, and political tolerance. By creating a novel typology combining out-party dislike and dislike differentiation, we show that anti-system radical-right supporters, characterized by high out-party dislike and low dislike differentiation, are the least supportive of democracy. By centering our analysis on those voters that receive and radiate the highest levels of negative affect, we advance knowledge on what fosters polarized attitudes and intolerance in Europe’s multiparty systems in times when the electoral popularity of the radical-right is surging."
+  publication_link: "https://www.cogitatiopress.com/politicsandgovernance/article/view/8531"
+  pre_registration_link: 
+
+- title: "Elite cooperation and affective polarization: evidence from German coalitions', Political Studies."
+  authors: ["Harteveld, E.", "Wagner, M."]
+  year: "2024"
+  journal: "Political Studies"
+  volume:
+  issue:
+  pages:
+  abstract: "Affective polarization is a central characteristic of political competition, but high levels are seen as potentially harmful. In this paper, we link the study of affective polarization to that of coalition politics, expecting that by signalling the willingness to cooperate in a coalition, political elites can reduce mutual dislike between political camps. We argue, first, that the impact of coalition formation should depend on the information content (‘surprisingness’) of this signal, and, secondly, that its effect should spill over to parties outside of the coalition. Combining twenty years of monthly voter-level data from Germany with data on national and regional coalitions, we show that coalitions are most likely to reduce affective distance when participating parties are ideologically distant and when the signals are still recent. Moreover, coalitions have a system-wide impact beyond the specific parties involved. We discuss the implications for the role of political elites in shaping affective polarization."
+  publication_link:
+  pre_registration_link:
+
+- title: "Heroes & villains: motivated projection of political identities"
+  authors: ["Turnbull-Dugarte, S.", "Wagner, M."]
+  year: "2024"
+  journal: "Political Science Research and Methods"
+  volume:
+  issue:
+  pages:
+  abstract: "Most research on political identities studies how individuals react to knowing others' political allegiances. However, in most contexts political views and identities are hidden and only inferred, so that projected beliefs and identities may matter as much as actual ones. We argue that individuals engage in motivated political projection: the identities people project onto target individuals are strongly conditional on the valence of that target. We test this theoretical proposition in two original studies. In Study 1, we rely on a unique visual conjoint experiment in Britain and the US that asks participants to assign partisanship and political ideology to heroes and villains from film and fiction. In Study 2, we present British voters with a vignette that manipulates a subject's valence and solicits (false) recall information related to the subject's political identity. We find strong support for motivated political projection in both studies, especially among strong identifiers. This is largely driven by negative out-group counter-projection rather than positive in-group projection. As political projection can lead to the solidification of antagonistic political identities can be solidified, our findings concerning political projection are relevant for understanding dynamics in group-based animosity and affective polarization."
+  publication_link:
+  pre_registration_link:

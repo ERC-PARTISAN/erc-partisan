@@ -14,9 +14,15 @@ main:
   - name: "Data"
     url: "/data/"
     weight: 5
+  - name: "Conferences"
+    url: "/conferences/"
+    weight: 6
+  #- name: "Workshop"
+  #  url: "/workshop/"
+  #  weight: 7
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 7
   
   
 

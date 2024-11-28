@@ -8,6 +8,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
+<p>This page provides an overview of and materials related to all the data collected within the PARTISAN project, including cross-sectional surveys and survey experiments. You will find links to data files, codebooks, publications, and pre-registrations where available.</p>
+
+
 # Cross-sectional survey
 
 <div class="surveys">
@@ -74,6 +77,8 @@ intro_image_hide_on_mobile: false
 <div class="section-title"></div>
 
 
+<!--
+
 # Survey experiments
 
 
@@ -110,3 +115,6 @@ intro_image_hide_on_mobile: false
     </div>
   {% endfor %}
 </div>
+
+
+-->

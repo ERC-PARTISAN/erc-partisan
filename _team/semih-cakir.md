@@ -9,4 +9,4 @@ promoted: true
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Semih Cakir is a postdoctoral researcher in the PARTISAN project. His research focuses on political parties, voter behavior, and political participation, with a particular emphasis on partisanship and polarization. He earned his M.Sc. and Ph.D. from the University of Montreal, where he studied how elite ideological polarization influences both mass ideological and affective polarization.
